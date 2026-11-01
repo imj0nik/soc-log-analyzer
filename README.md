@@ -29,4 +29,4 @@ Eventos de Windows (4625, 4624, 4672, 4688, 4698, 7045, entre otros), proxy, fir
 HTML, CSS y JavaScript sin dependencias de servidor.
 
 ## Autor
-Proyecto final de bootcamp.
+Juan Medina
