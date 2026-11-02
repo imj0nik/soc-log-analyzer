@@ -38,4 +38,6 @@ Eventos de Windows (4625, 4624, 4672, 4688, 4698, 7045, entre otros), proxy, fir
 HTML, CSS y JavaScript sin dependencias de servidor.
 
 ## Autor
-Proyecto final de bootcamp.
+**Juan Medina**
+Proyecto final del bootcamp Analista SOC nivel 2 de Comunidad Dojo, octubre 2026.
+GitHub: [@imj0nik](https://github.com/imj0nik)
